@@ -1,0 +1,6 @@
+projectKey=firstUnitTests
+serverUrl=http://localhost:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:9000/dashboard/index/firstUnitTests
+ceTaskId=AWapDDz-wk7JQ1oA9-4i
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWapDDz-wk7JQ1oA9-4i
